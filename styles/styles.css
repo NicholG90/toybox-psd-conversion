@@ -221,6 +221,12 @@ template {
   overflow: hidden;
 }
 
+@font-face {
+  font-family: "Jakarta Sans";
+  src: url("../fonts/PlusJakarta_Sans-2.5/webfonts/PlusJakartaSans-Regular.woff");
+  src: url("../fonts/PlusJakarta_Sans-2.5/static/PlusJakartaSans-Regular.ttf");
+  src: url("../fonts/PlusJakarta_Sans-2.5/webfonts/PlusJakartaSans-Regular.woff2");
+}
 header {
   width: 100%;
 }
